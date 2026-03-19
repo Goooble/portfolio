@@ -18,8 +18,6 @@ function App() {
         <Hero></Hero>
         <About></About>
         <Gallery></Gallery>
-        <Gallery></Gallery>
-        <Gallery></Gallery>
         <Contact></Contact>
       </div>
     </>
